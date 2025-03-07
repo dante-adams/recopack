@@ -2,9 +2,9 @@ export default {
   seo: {
     head_title: 'ЛэндПак',
     description: 'Производим упаковку с 2014 года.',
-    url: 'https://landpack.ru'
+    url: 'https://recopack.store/'
   },
-  title_h1: 'ЛэндПак',
+  title_h1: 'РекоПак',
   subtitle: 'Производим упаковку с 2014 года.',
   products: 'Продукция',
   about: 'О нас',
