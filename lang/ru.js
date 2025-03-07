@@ -5,7 +5,7 @@ export default {
     url: 'https://recopack.store/'
   },
   title_h1: 'РекоПак',
-  subtitle: 'Производим упаковку с 2014 года.',
+  subtitle: 'Производим 1111упаковку с 2014 года.',
   products: 'Продукция',
   about: 'О нас',
   contacts: 'Контакты',
